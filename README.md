@@ -1,4 +1,10 @@
 # student-management-system
-A Spring mvc project performing basic CRUD operations for Student Management System.
+A web application performing CRUD operations for Student Management System.
 
-Built with spring, hibernate, thymeleaf, bootstrap and MySQL
+Tools and technologies used:
+- Java 15
+- Spring Boot
+- Spring MVC
+- Spring Data JPA (Hibernate)
+- MySQL
+- Thymeleaf
